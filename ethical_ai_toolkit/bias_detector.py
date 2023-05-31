@@ -125,3 +125,4 @@ if __name__ == "__main__":
 
     # Clean up dummy data
     os.remove("dummy_loan_data.csv")
+// Update on 2023-05-31 00:00:00 - 607
